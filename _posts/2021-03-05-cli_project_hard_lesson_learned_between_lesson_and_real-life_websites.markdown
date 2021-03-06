@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "CLI Project:  Hard Lesson Learned Between Lesson and Real-Life Websites"
-date:       2021-03-06 01:50:35 +0000
+date:       2021-03-05 20:50:36 -0500
 permalink:  cli_project_hard_lesson_learned_between_lesson_and_real-life_websites
 ---
 
 
-Originally my CLI Portfolio Project started out rough. My initial idea for a gem was to scrape the Megamillions and Powerball website to allow a user to view most recent numbers, past numbers, and if the information was available far enough back, to show most common numbers (even though you would think they would be distributed evenly, but maybe not!). I don't play the lottery often but when I do, I do not particularly like going to multiple pages, websites to see the winning numbers, especially if they were past numbers.
+Originally my CLI Portfolio Project started out rough. My initial idea for the project was to scrape the Megamillions and Powerball website to allow a user to view most recent numbers, past numbers, and if the information was available far enough back, to show most common numbers (even though you would think they would be distributed evenly, but maybe not!). I don't play the lottery often but when I do, I do not particularly like going to multiple pages, websites to see the winning numbers, especially if they were past numbers.
 
 I was pretty comfortable with the Open-URI and Nokogiri lessons and knew that many times it was just trial and error for finding the information, so I began down that path.  As I began looking at the Powerball and Mega Millions websites I began to realize that the lessons do not always translate to reality. Inspecting the HTML code, was fairly easy, but ran into two problems:
 
